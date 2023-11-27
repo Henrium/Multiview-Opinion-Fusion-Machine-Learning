@@ -9,7 +9,7 @@ This repository implements the Multiview Opinion Fusion Machine Learning (MVOF-M
 
 Please cite the following work if you would like to use the package.
 ```
-@misc{MvOF-ML,
+@article{MvOF-ML,
    author = {Chen, Jie and Zhang, Hengrui and Liu, Wei and Wahl, Carolin B. and Mirkin, Chad A. and Dravid, Vinayak P. and Apley, Daniel W. and Chen, Wei},
    title = {Automated crystal system identification from electron diffraction patterns using multiview opinion fusion machine learning},
    journal = {Proceedings of the National Academy of Sciences},
